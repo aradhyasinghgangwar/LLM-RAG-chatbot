@@ -4,13 +4,12 @@ This project is a Generative AI chatbot that uses Large Language Models (LLM) an
 
 ## Table of Contents
 
-- (#Introduction)
-- (#Features)
-- (#Installation)
-- (#Usage)
-- (#Dataset)
-- (#Contributing)
-- (#License)
+- Introduction
+- Features
+- Installation
+- Usage
+- Dataset
+- Contributing
 
 ## Introduction
 
@@ -27,7 +26,7 @@ This chatbot leverages state-of-the-art LLM from Hugging Face and FAISS for effi
 To run this project, follow these steps:
 
 1. **Clone the repository**:
-    git clone https://github.com/your-username/rag-chatbot-wep.git
+    git clone https://github.com/your-username/LLM-RAG-chatbot.git
     cd rag-chatbot-wep
 
 2. **Install the required dependencies**:
